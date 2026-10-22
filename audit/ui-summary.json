@@ -1,0 +1,19 @@
+{
+  "rendered": 3262,
+  "options": 2736,
+  "graded": 142,
+  "filters": 17160,
+  "forms": [
+    "RS correct/wrong",
+    "guided five steps",
+    "timed exam",
+    "CSV export",
+    "empty filters",
+    "missing extension",
+    "molecule zoom"
+  ],
+  "pageErrors": [],
+  "mobileWidths": [
+    390
+  ]
+}

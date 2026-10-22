@@ -1,0 +1,28 @@
+{
+  "engine": "RDKit 2026.09.1 modern CIPLabeler",
+  "molecules": 912,
+  "questions": 142,
+  "families": {
+    "Alcani": 80,
+    "Alcheni e alchini": 262,
+    "Ciclici e aromatici": 10,
+    "Alcoli, fenoli ed eteri": 101,
+    "Aldeidi e chetoni": 44,
+    "Acidi carbossilici ed esteri": 49,
+    "Ammine, ammidi e nitrili": 74,
+    "Polifunzionali": 94,
+    "Alogenoderivati": 198
+  },
+  "questionCategories": {
+    "pair": 24,
+    "EZ": 8,
+    "RS": 50,
+    "stereo_pair": 54,
+    "meso": 6
+  },
+  "fischer": 114,
+  "aliasesChecked": 128,
+  "failures": [],
+  "rows": 1054,
+  "excluded": []
+}

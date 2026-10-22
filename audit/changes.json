@@ -1,0 +1,6071 @@
+[
+  {
+    "type": "unspecified double bond drawing",
+    "id": 19
+  },
+  {
+    "type": "explanation precision",
+    "id": 19,
+    "before": "La doppia insaturazione parte dal carbonio 2; la configurazione E/Z non è specificata.",
+    "after": "Il doppio legame è fra C2 e C3; la configurazione E/Z non è specificata e viene rappresentata con un doppio legame incrociato."
+  },
+  {
+    "type": "unspecified double bond drawing",
+    "id": 24
+  },
+  {
+    "type": "explanation precision",
+    "id": 92,
+    "before": "Numera la catena a partire dal gruppo -OH: bromuro sul C2, -OH sul C1.",
+    "after": "Numera la catena a partire dal gruppo -OH: bromo sul C2, -OH sul C1."
+  },
+  {
+    "type": "explanation precision",
+    "id": 531,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 532,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 533,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 534,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 535,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 536,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 537,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 538,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 539,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 540,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 541,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 542,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 543,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 544,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 545,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 546,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 547,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 548,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 549,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 550,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 551,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 552,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 553,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 554,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 555,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 556,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 557,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 558,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 559,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 560,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 561,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 562,
+    "before": "Il gruppo -OH richiede il suffisso -olo e un locante se non terminale.",
+    "after": "Il gruppo -OH è la funzione principale e richiede il suffisso -olo. Indica la sua posizione con il locante appropriato, anche quando è terminale, e scegli la numerazione più bassa."
+  },
+  {
+    "type": "explanation precision",
+    "id": 613,
+    "before": "Il gruppo amminico principale è -NH₂ e il nome richiede il locante della funzione.",
+    "after": "La funzione principale è amminica. Individua la catena legata all’azoto e il locante del legame C-N; eventuali gruppi metile legati all’azoto sono indicati con N- o N,N-. Le ammine N-sostituite non hanno necessariamente un gruppo -NH₂."
+  },
+  {
+    "type": "explanation precision",
+    "id": 614,
+    "before": "Il gruppo amminico principale è -NH₂ e il nome richiede il locante della funzione.",
+    "after": "La funzione principale è amminica. Individua la catena legata all’azoto e il locante del legame C-N; eventuali gruppi metile legati all’azoto sono indicati con N- o N,N-. Le ammine N-sostituite non hanno necessariamente un gruppo -NH₂."
+  },
+  {
+    "type": "explanation precision",
+    "id": 615,
+    "before": "Il gruppo amminico principale è -NH₂ e il nome richiede il locante della funzione.",
+    "after": "La funzione principale è amminica. Individua la catena legata all’azoto e il locante del legame C-N; eventuali gruppi metile legati all’azoto sono indicati con N- o N,N-. Le ammine N-sostituite non hanno necessariamente un gruppo -NH₂."
+  },
+  {
+    "type": "explanation precision",
+    "id": 616,
+    "before": "Il gruppo amminico principale è -NH₂ e il nome richiede il locante della funzione.",
+    "after": "La funzione principale è amminica. Individua la catena legata all’azoto e il locante del legame C-N; eventuali gruppi metile legati all’azoto sono indicati con N- o N,N-. Le ammine N-sostituite non hanno necessariamente un gruppo -NH₂."
+  },
+  {
+    "type": "explanation precision",
+    "id": 617,
+    "before": "Il gruppo amminico principale è -NH₂ e il nome richiede il locante della funzione.",
+    "after": "La funzione principale è amminica. Individua la catena legata all’azoto e il locante del legame C-N; eventuali gruppi metile legati all’azoto sono indicati con N- o N,N-. Le ammine N-sostituite non hanno necessariamente un gruppo -NH₂."
+  },
+  {
+    "type": "explanation precision",
+    "id": 618,
+    "before": "Il gruppo amminico principale è -NH₂ e il nome richiede il locante della funzione.",
+    "after": "La funzione principale è amminica. Individua la catena legata all’azoto e il locante del legame C-N; eventuali gruppi metile legati all’azoto sono indicati con N- o N,N-. Le ammine N-sostituite non hanno necessariamente un gruppo -NH₂."
+  },
+  {
+    "type": "explanation precision",
+    "id": 619,
+    "before": "Il gruppo amminico principale è -NH₂ e il nome richiede il locante della funzione.",
+    "after": "La funzione principale è amminica. Individua la catena legata all’azoto e il locante del legame C-N; eventuali gruppi metile legati all’azoto sono indicati con N- o N,N-. Le ammine N-sostituite non hanno necessariamente un gruppo -NH₂."
+  },
+  {
+    "type": "explanation precision",
+    "id": 620,
+    "before": "Il gruppo amminico principale è -NH₂ e il nome richiede il locante della funzione.",
+    "after": "La funzione principale è amminica. Individua la catena legata all’azoto e il locante del legame C-N; eventuali gruppi metile legati all’azoto sono indicati con N- o N,N-. Le ammine N-sostituite non hanno necessariamente un gruppo -NH₂."
+  },
+  {
+    "type": "explanation precision",
+    "id": 621,
+    "before": "Il gruppo amminico principale è -NH₂ e il nome richiede il locante della funzione.",
+    "after": "La funzione principale è amminica. Individua la catena legata all’azoto e il locante del legame C-N; eventuali gruppi metile legati all’azoto sono indicati con N- o N,N-. Le ammine N-sostituite non hanno necessariamente un gruppo -NH₂."
+  },
+  {
+    "type": "explanation precision",
+    "id": 622,
+    "before": "Il gruppo amminico principale è -NH₂ e il nome richiede il locante della funzione.",
+    "after": "La funzione principale è amminica. Individua la catena legata all’azoto e il locante del legame C-N; eventuali gruppi metile legati all’azoto sono indicati con N- o N,N-. Le ammine N-sostituite non hanno necessariamente un gruppo -NH₂."
+  },
+  {
+    "type": "explanation precision",
+    "id": 623,
+    "before": "Il gruppo amminico principale è -NH₂ e il nome richiede il locante della funzione.",
+    "after": "La funzione principale è amminica. Individua la catena legata all’azoto e il locante del legame C-N; eventuali gruppi metile legati all’azoto sono indicati con N- o N,N-. Le ammine N-sostituite non hanno necessariamente un gruppo -NH₂."
+  },
+  {
+    "type": "explanation precision",
+    "id": 624,
+    "before": "Il gruppo amminico principale è -NH₂ e il nome richiede il locante della funzione.",
+    "after": "La funzione principale è amminica. Individua la catena legata all’azoto e il locante del legame C-N; eventuali gruppi metile legati all’azoto sono indicati con N- o N,N-. Le ammine N-sostituite non hanno necessariamente un gruppo -NH₂."
+  },
+  {
+    "type": "explanation precision",
+    "id": 625,
+    "before": "Il gruppo amminico principale è -NH₂ e il nome richiede il locante della funzione.",
+    "after": "La funzione principale è amminica. Individua la catena legata all’azoto e il locante del legame C-N; eventuali gruppi metile legati all’azoto sono indicati con N- o N,N-. Le ammine N-sostituite non hanno necessariamente un gruppo -NH₂."
+  },
+  {
+    "type": "explanation precision",
+    "id": 626,
+    "before": "Il gruppo amminico principale è -NH₂ e il nome richiede il locante della funzione.",
+    "after": "La funzione principale è amminica. Individua la catena legata all’azoto e il locante del legame C-N; eventuali gruppi metile legati all’azoto sono indicati con N- o N,N-. Le ammine N-sostituite non hanno necessariamente un gruppo -NH₂."
+  },
+  {
+    "type": "explanation precision",
+    "id": 627,
+    "before": "Il gruppo amminico principale è -NH₂ e il nome richiede il locante della funzione.",
+    "after": "La funzione principale è amminica. Individua la catena legata all’azoto e il locante del legame C-N; eventuali gruppi metile legati all’azoto sono indicati con N- o N,N-. Le ammine N-sostituite non hanno necessariamente un gruppo -NH₂."
+  },
+  {
+    "type": "explanation precision",
+    "id": 628,
+    "before": "Il gruppo amminico principale è -NH₂ e il nome richiede il locante della funzione.",
+    "after": "La funzione principale è amminica. Individua la catena legata all’azoto e il locante del legame C-N; eventuali gruppi metile legati all’azoto sono indicati con N- o N,N-. Le ammine N-sostituite non hanno necessariamente un gruppo -NH₂."
+  },
+  {
+    "type": "explanation precision",
+    "id": 629,
+    "before": "Il gruppo amminico principale è -NH₂ e il nome richiede il locante della funzione.",
+    "after": "La funzione principale è amminica. Individua la catena legata all’azoto e il locante del legame C-N; eventuali gruppi metile legati all’azoto sono indicati con N- o N,N-. Le ammine N-sostituite non hanno necessariamente un gruppo -NH₂."
+  },
+  {
+    "type": "explanation precision",
+    "id": 630,
+    "before": "Il gruppo amminico principale è -NH₂ e il nome richiede il locante della funzione.",
+    "after": "La funzione principale è amminica. Individua la catena legata all’azoto e il locante del legame C-N; eventuali gruppi metile legati all’azoto sono indicati con N- o N,N-. Le ammine N-sostituite non hanno necessariamente un gruppo -NH₂."
+  },
+  {
+    "type": "explanation precision",
+    "id": 631,
+    "before": "Il gruppo amminico principale è -NH₂ e il nome richiede il locante della funzione.",
+    "after": "La funzione principale è amminica. Individua la catena legata all’azoto e il locante del legame C-N; eventuali gruppi metile legati all’azoto sono indicati con N- o N,N-. Le ammine N-sostituite non hanno necessariamente un gruppo -NH₂."
+  },
+  {
+    "type": "explanation precision",
+    "id": 632,
+    "before": "Il gruppo amminico principale è -NH₂ e il nome richiede il locante della funzione.",
+    "after": "La funzione principale è amminica. Individua la catena legata all’azoto e il locante del legame C-N; eventuali gruppi metile legati all’azoto sono indicati con N- o N,N-. Le ammine N-sostituite non hanno necessariamente un gruppo -NH₂."
+  },
+  {
+    "type": "explanation precision",
+    "id": 642,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "explanation precision",
+    "id": 643,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "explanation precision",
+    "id": 644,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "explanation precision",
+    "id": 645,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "explanation precision",
+    "id": 646,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "explanation precision",
+    "id": 647,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "explanation precision",
+    "id": 648,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "explanation precision",
+    "id": 649,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "explanation precision",
+    "id": 650,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "explanation precision",
+    "id": 651,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "explanation precision",
+    "id": 652,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "explanation precision",
+    "id": 653,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "explanation precision",
+    "id": 654,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "explanation precision",
+    "id": 655,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "explanation precision",
+    "id": 656,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "explanation precision",
+    "id": 657,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "explanation precision",
+    "id": 658,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "explanation precision",
+    "id": 659,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "explanation precision",
+    "id": 660,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "explanation precision",
+    "id": 661,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "explanation precision",
+    "id": 662,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "explanation precision",
+    "id": 663,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "explanation precision",
+    "id": 664,
+    "before": "Il gruppo -CONH₂ identifica un’ammide; i sostituenti legati all’azoto sono indicati con N.",
+    "after": "Il gruppo C(=O)-N identifica un’ammide. Il carbonio carbonilico appartiene alla catena principale; gli eventuali sostituenti sull’azoto si indicano con N- o N,N-. Il gruppo -CONH₂ è presente soltanto nell’ammide non sostituita sull’azoto."
+  },
+  {
+    "type": "numbering",
+    "id": 726,
+    "before": "(2R,3S)-3-bromo-2-clorobutano",
+    "after": "(2S,3R)-2-bromo-3-clorobutano"
+  },
+  {
+    "type": "numbering",
+    "id": 727,
+    "before": "(2S,3R)-3-bromo-2-fluorobutano",
+    "after": "(2R,3S)-2-bromo-3-fluorobutano"
+  },
+  {
+    "type": "numbering",
+    "id": 737,
+    "before": "(2R,4S)-4-bromo-2-cloropentano",
+    "after": "(2S,4R)-2-bromo-4-cloropentano"
+  },
+  {
+    "type": "numbering",
+    "id": 738,
+    "before": "(2S,4R)-4-bromo-2-fluoropentano",
+    "after": "(2R,4S)-2-bromo-4-fluoropentano"
+  },
+  {
+    "type": "numbering",
+    "id": 740,
+    "before": "(3S,4R)-3-cloro-4-fluoropentano",
+    "after": "(2R,3S)-3-cloro-2-fluoropentano"
+  },
+  {
+    "type": "numbering",
+    "id": 741,
+    "before": "(3R,4S)-4-fluoro-3-metilpentano",
+    "after": "(2S,3R)-2-fluoro-3-metilpentano"
+  },
+  {
+    "type": "numbering",
+    "id": 743,
+    "before": "(2S,3R,4S)-3-bromo-4-cloro-2-fluoropentano",
+    "after": "(2S,3R,4S)-3-bromo-2-cloro-4-fluoropentano"
+  },
+  {
+    "type": "numbering",
+    "id": 745,
+    "before": "(2S,3R,4S)-4-bromo-2-cloro-3-fluoropentano",
+    "after": "(2S,3R,4S)-2-bromo-4-cloro-3-fluoropentano"
+  },
+  {
+    "type": "numbering",
+    "id": 765,
+    "before": "(2R,5S)-5-bromo-2-cloroesano",
+    "after": "(2S,5R)-2-bromo-5-cloroesano"
+  },
+  {
+    "type": "numbering",
+    "id": 766,
+    "before": "(2S,5R)-5-bromo-2-fluoroesano",
+    "after": "(2R,5S)-2-bromo-5-fluoroesano"
+  },
+  {
+    "type": "numbering",
+    "id": 768,
+    "before": "(3R,4S)-4-bromo-3-cloroesano",
+    "after": "(3S,4R)-3-bromo-4-cloroesano"
+  },
+  {
+    "type": "numbering",
+    "id": 769,
+    "before": "(3S,4R)-4-bromo-3-fluoroesano",
+    "after": "(3R,4S)-3-bromo-4-fluoroesano"
+  },
+  {
+    "type": "numbering",
+    "id": 771,
+    "before": "(3R,4S)-4-fluoro-3-metilesano",
+    "after": "(3S,4R)-3-fluoro-4-metilesano"
+  },
+  {
+    "type": "numbering",
+    "id": 773,
+    "before": "(3R,5S)-5-bromo-3-cloroesano",
+    "after": "(2S,4R)-2-bromo-4-cloroesano"
+  },
+  {
+    "type": "numbering",
+    "id": 774,
+    "before": "(3S,5R)-3-cloro-5-fluoroesano",
+    "after": "(2R,4S)-4-cloro-2-fluoroesano"
+  },
+  {
+    "type": "numbering",
+    "id": 775,
+    "before": "(3R,5S)-5-fluoro-3-metilesano",
+    "after": "(2S,4R)-2-fluoro-4-metilesano"
+  },
+  {
+    "type": "numbering",
+    "id": 776,
+    "before": "(4R,5S)-5-bromo-4-cloroesano",
+    "after": "(2S,3R)-2-bromo-3-cloroesano"
+  },
+  {
+    "type": "numbering",
+    "id": 777,
+    "before": "(4S,5R)-4-cloro-5-fluoroesano",
+    "after": "(2R,3S)-3-cloro-2-fluoroesano"
+  },
+  {
+    "type": "numbering",
+    "id": 778,
+    "before": "(4R,5S)-5-fluoro-4-metilesano",
+    "after": "(2S,3R)-2-fluoro-3-metilesano"
+  },
+  {
+    "type": "numbering",
+    "id": 789,
+    "before": "(2R,4S,5R)-4-bromo-2-cloro-5-fluoroesano",
+    "after": "(2R,3S,5R)-3-bromo-5-cloro-2-fluoroesano"
+  },
+  {
+    "type": "numbering",
+    "id": 790,
+    "before": "(2S,4R,5S)-4-bromo-5-cloro-2-fluoroesano",
+    "after": "(2S,3R,5S)-3-bromo-2-cloro-5-fluoroesano"
+  },
+  {
+    "type": "numbering",
+    "id": 791,
+    "before": "(2R,4S,5R)-2-bromo-5-cloro-4-fluoroesano",
+    "after": "(2R,3S,5R)-5-bromo-2-cloro-3-fluoroesano"
+  },
+  {
+    "type": "numbering",
+    "id": 792,
+    "before": "(2S,4R,5S)-5-bromo-2-cloro-4-fluoroesano",
+    "after": "(2S,3R,5S)-2-bromo-5-cloro-3-fluoroesano"
+  },
+  {
+    "type": "numbering",
+    "id": 793,
+    "before": "(2S,4R,5S)-2-bromo-5-cloro-4-metilesano",
+    "after": "(2S,3R,5S)-5-bromo-2-cloro-3-metilesano"
+  },
+  {
+    "type": "numbering",
+    "id": 794,
+    "before": "(3R,4S,5R)-4-bromo-3-cloro-5-fluoroesano",
+    "after": "(2R,3S,4R)-3-bromo-4-cloro-2-fluoroesano"
+  },
+  {
+    "type": "numbering",
+    "id": 795,
+    "before": "(3S,4R,5S)-4-bromo-5-cloro-3-fluoroesano",
+    "after": "(2S,3R,4S)-3-bromo-2-cloro-4-fluoroesano"
+  },
+  {
+    "type": "numbering",
+    "id": 796,
+    "before": "(3R,4S,5R)-3-bromo-5-cloro-4-fluoroesano",
+    "after": "(2R,3S,4R)-4-bromo-2-cloro-3-fluoroesano"
+  },
+  {
+    "type": "numbering",
+    "id": 797,
+    "before": "(3S,4R,5S)-5-bromo-3-cloro-4-fluoroesano",
+    "after": "(2S,3R,4S)-2-bromo-4-cloro-3-fluoroesano"
+  },
+  {
+    "type": "numbering",
+    "id": 798,
+    "before": "(3R,4S,5R)-5-bromo-4-fluoro-3-metilesano",
+    "after": "(2R,3S,4R)-2-bromo-3-fluoro-4-metilesano"
+  },
+  {
+    "type": "numbering",
+    "id": 799,
+    "before": "(3S,4R,5S)-3-bromo-5-cloro-4-metilesano",
+    "after": "(2S,3R,4S)-4-bromo-2-cloro-3-metilesano"
+  },
+  {
+    "type": "name punctuation",
+    "id": 895,
+    "before": "(4R,5S)-5-bromo-4-cloro-ept-1-ino",
+    "after": "(4R,5S)-5-bromo-4-cloroept-1-ino"
+  },
+  {
+    "type": "name punctuation",
+    "id": 896,
+    "before": "(4R,5S)-4-bromo-5-fluoro-ept-1-ino",
+    "after": "(4R,5S)-4-bromo-5-fluoroept-1-ino"
+  },
+  {
+    "type": "name punctuation",
+    "id": 897,
+    "before": "(4R,5S)-4-cloro-5-fluoro-ept-1-ino",
+    "after": "(4R,5S)-4-cloro-5-fluoroept-1-ino"
+  },
+  {
+    "type": "name punctuation",
+    "id": 898,
+    "before": "(4R,5S)-5-bromo-4-cloro-ept-2-ino",
+    "after": "(4R,5S)-5-bromo-4-cloroept-2-ino"
+  },
+  {
+    "type": "name punctuation",
+    "id": 899,
+    "before": "(4R,5S)-4-bromo-5-fluoro-ept-2-ino",
+    "after": "(4R,5S)-4-bromo-5-fluoroept-2-ino"
+  },
+  {
+    "type": "name punctuation",
+    "id": 900,
+    "before": "(4R,5S)-4-cloro-5-fluoro-ept-2-ino",
+    "after": "(4R,5S)-4-cloro-5-fluoroept-2-ino"
+  },
+  {
+    "type": "name punctuation",
+    "id": 901,
+    "before": "(4R,5S)-5-bromo-4-cloro-ott-1-ino",
+    "after": "(4R,5S)-5-bromo-4-cloroott-1-ino"
+  },
+  {
+    "type": "name punctuation",
+    "id": 902,
+    "before": "(4R,5S)-4-bromo-5-fluoro-ott-1-ino",
+    "after": "(4R,5S)-4-bromo-5-fluoroott-1-ino"
+  },
+  {
+    "type": "name punctuation",
+    "id": 903,
+    "before": "(4R,5S)-4-cloro-5-fluoro-ott-1-ino",
+    "after": "(4R,5S)-4-cloro-5-fluoroott-1-ino"
+  },
+  {
+    "type": "name punctuation",
+    "id": 904,
+    "before": "(4R,5S)-5-bromo-4-cloro-ott-2-ino",
+    "after": "(4R,5S)-5-bromo-4-cloroott-2-ino"
+  },
+  {
+    "type": "name punctuation",
+    "id": 905,
+    "before": "(4R,5S)-4-bromo-5-fluoro-ott-2-ino",
+    "after": "(4R,5S)-4-bromo-5-fluoroott-2-ino"
+  },
+  {
+    "type": "name punctuation",
+    "id": 906,
+    "before": "(4R,5S)-4-cloro-5-fluoro-ott-2-ino",
+    "after": "(4R,5S)-4-cloro-5-fluoroott-2-ino"
+  },
+  {
+    "type": "name punctuation",
+    "id": 907,
+    "before": "(4R,5S)-5-bromo-4-cloro-non-1-ino",
+    "after": "(4R,5S)-5-bromo-4-cloronon-1-ino"
+  },
+  {
+    "type": "name punctuation",
+    "id": 908,
+    "before": "(4R,5S)-4-bromo-5-fluoro-non-1-ino",
+    "after": "(4R,5S)-4-bromo-5-fluoronon-1-ino"
+  },
+  {
+    "type": "name punctuation",
+    "id": 909,
+    "before": "(4R,5S)-4-cloro-5-fluoro-non-1-ino",
+    "after": "(4R,5S)-4-cloro-5-fluoronon-1-ino"
+  },
+  {
+    "type": "name punctuation",
+    "id": 910,
+    "before": "(4R,5S)-5-bromo-4-cloro-non-2-ino",
+    "after": "(4R,5S)-5-bromo-4-cloronon-2-ino"
+  },
+  {
+    "type": "name punctuation",
+    "id": 911,
+    "before": "(4R,5S)-4-bromo-5-fluoro-non-2-ino",
+    "after": "(4R,5S)-4-bromo-5-fluoronon-2-ino"
+  },
+  {
+    "type": "name punctuation",
+    "id": 912,
+    "before": "(4R,5S)-4-cloro-5-fluoro-non-2-ino",
+    "after": "(4R,5S)-4-cloro-5-fluoronon-2-ino"
+  },
+  {
+    "type": "stereocenter count",
+    "id": 12,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "guide locants convention",
+    "id": 25,
+    "before": "3,1",
+    "after": "1,3"
+  },
+  {
+    "type": "stereocenter count",
+    "id": 35,
+    "before": 0,
+    "after": 2
+  },
+  {
+    "type": "stereocenter count",
+    "id": 46,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "guide locants convention",
+    "id": 49,
+    "before": "2,1",
+    "after": "1,2"
+  },
+  {
+    "type": "stereocenter count",
+    "id": 72,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "stereocenter count",
+    "id": 74,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "guide locants convention",
+    "id": 91,
+    "before": "2,1",
+    "after": "1,2"
+  },
+  {
+    "type": "stereocenter count",
+    "id": 92,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "guide locants convention",
+    "id": 92,
+    "before": "2,1",
+    "after": "1,2"
+  },
+  {
+    "type": "stereocenter count",
+    "id": 93,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "guide locants convention",
+    "id": 93,
+    "before": "3,2",
+    "after": "2,3"
+  },
+  {
+    "type": "stereocenter count",
+    "id": 94,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "stereocenter count",
+    "id": 95,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "guide locants convention",
+    "id": 95,
+    "before": "2,1",
+    "after": "1,2"
+  },
+  {
+    "type": "stereocenter count",
+    "id": 97,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "guide locants convention",
+    "id": 98,
+    "before": "4,2",
+    "after": "2,4"
+  },
+  {
+    "type": "stereocenter count",
+    "id": 100,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "stereocenter count",
+    "id": 106,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "stereocenter count",
+    "id": 108,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "stereocenter count",
+    "id": 111,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "stereocenter count",
+    "id": 112,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "stereocenter count",
+    "id": 131,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "stereocenter count",
+    "id": 132,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "stereocenter count",
+    "id": 148,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "stereocenter count",
+    "id": 159,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "stereocenter count",
+    "id": 160,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "guide locants convention",
+    "id": 181,
+    "before": "4,2",
+    "after": "2,4"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 182,
+    "before": "4,2",
+    "after": "2,4"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 183,
+    "before": "3,2",
+    "after": "2,3"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 184,
+    "before": "3,2",
+    "after": "2,3"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 185,
+    "before": "5,2",
+    "after": "2,5"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 186,
+    "before": "5,2",
+    "after": "2,5"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 197,
+    "before": "3,2",
+    "after": "2,3"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 198,
+    "before": "3,2",
+    "after": "2,3"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 199,
+    "before": "4,2",
+    "after": "2,4"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 200,
+    "before": "4,2",
+    "after": "2,4"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 217,
+    "before": "3,2",
+    "after": "2,3"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 218,
+    "before": "3,2",
+    "after": "2,3"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 219,
+    "before": "3,2",
+    "after": "2,3"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 220,
+    "before": "3,2",
+    "after": "2,3"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 221,
+    "before": "3,2",
+    "after": "2,3"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 222,
+    "before": "3,2",
+    "after": "2,3"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 223,
+    "before": "3,2",
+    "after": "2,3"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 224,
+    "before": "3,2",
+    "after": "2,3"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 236,
+    "before": "4,2",
+    "after": "2,4"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 237,
+    "before": "4,2",
+    "after": "2,4"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 238,
+    "before": "4,2",
+    "after": "2,4"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 239,
+    "before": "4,2",
+    "after": "2,4"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 279,
+    "before": "4,5,2",
+    "after": "2,4,5"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 280,
+    "before": "4,5,2",
+    "after": "2,4,5"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 281,
+    "before": "4,5,2",
+    "after": "2,4,5"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 282,
+    "before": "4,5,2",
+    "after": "2,4,5"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 283,
+    "before": "4,5,2",
+    "after": "2,4,5"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 284,
+    "before": "4,5,2",
+    "after": "2,4,5"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 285,
+    "before": "4,5,2",
+    "after": "2,4,5"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 286,
+    "before": "4,5,2",
+    "after": "2,4,5"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 287,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 288,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 289,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 290,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 291,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 292,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 293,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 294,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 295,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 296,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 297,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 298,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 299,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 300,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 301,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 302,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 303,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 304,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 305,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 306,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 307,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 308,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 309,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 310,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 311,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 312,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 313,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 314,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 315,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 316,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 317,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 318,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 319,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 320,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 321,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 322,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 323,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 324,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 325,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 326,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 327,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 328,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 329,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 330,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 331,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 332,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 333,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 334,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 335,
+    "before": "4,5,2",
+    "after": "2,4,5"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 336,
+    "before": "4,5,2",
+    "after": "2,4,5"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 337,
+    "before": "4,5,2",
+    "after": "2,4,5"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 338,
+    "before": "4,5,2",
+    "after": "2,4,5"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 339,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 340,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 341,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 342,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 343,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 344,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 345,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 346,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 347,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 348,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 349,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 350,
+    "before": "4,5,6,2",
+    "after": "2,4,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 351,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 352,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 353,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 354,
+    "before": "5,6,3",
+    "after": "3,5,6"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 355,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 356,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 357,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 358,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 359,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 360,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 361,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 362,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 363,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 364,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 365,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 366,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 367,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 368,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 369,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "guide locants convention",
+    "id": 370,
+    "before": "5,6,7,3",
+    "after": "3,5,6,7"
+  },
+  {
+    "type": "stereocenter count",
+    "id": 372,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 372,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 374,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 374,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 376,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 376,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 378,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 378,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 381,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 381,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 384,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 384,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 387,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 387,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 388,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 388,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 390,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 390,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 391,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 391,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 393,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 393,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 394,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 394,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 396,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 396,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 397,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 397,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 399,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 399,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 400,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 400,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 402,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 402,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 403,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 403,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 405,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 405,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 406,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 406,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 408,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 408,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 409,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 409,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 411,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 411,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 412,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 412,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 414,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 414,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 415,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 415,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 417,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 417,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 418,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 418,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 420,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 420,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 421,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 421,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 423,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 423,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 424,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 424,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 426,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 426,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 427,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 427,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 429,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 429,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 430,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 430,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 432,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 432,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 433,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 433,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 435,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 435,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 436,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 436,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 438,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 438,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 439,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 439,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 441,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 441,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 442,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 442,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 444,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 444,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 445,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 445,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 447,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 447,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 448,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 448,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 450,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 450,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 451,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 451,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 453,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 453,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 454,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 454,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 456,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 456,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 457,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 457,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 532,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 532,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 534,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 534,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 535,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 535,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 537,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 537,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 538,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 538,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 540,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 540,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 541,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 541,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 542,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 542,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 544,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 544,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 545,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 545,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 546,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 546,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 548,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 548,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 549,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 549,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 550,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 550,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 551,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 551,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 553,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 553,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 554,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 554,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 555,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 555,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 556,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 556,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 558,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 558,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 559,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 559,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 560,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 560,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 561,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 561,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 562,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 562,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 614,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 614,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 616,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 616,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 617,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 617,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 619,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 619,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 620,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 620,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 622,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 622,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 623,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 623,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 625,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 625,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 626,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 626,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 628,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 628,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 629,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 629,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 631,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 631,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 632,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 632,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 667,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 667,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 670,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 670,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 673,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 673,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 676,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 676,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 679,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 679,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 682,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 682,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 685,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 685,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 688,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 688,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 689,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 689,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 690,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 690,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 691,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 691,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 692,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 692,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 693,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 693,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 694,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 694,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 695,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 695,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 696,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 696,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 697,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 697,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 698,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 698,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 699,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 699,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 700,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 700,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 701,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 701,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 702,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 702,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 703,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 703,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 704,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 704,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 705,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 705,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 706,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 706,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 707,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 707,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 708,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 708,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 709,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 709,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 710,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 710,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 711,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 711,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 712,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 712,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 714,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 714,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 715,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 715,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 717,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 717,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 718,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 718,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 720,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 720,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 721,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 721,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 723,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 723,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "stereocenter count",
+    "id": 724,
+    "before": 0,
+    "after": 1
+  },
+  {
+    "type": "unspecified stereo flag",
+    "id": 724,
+    "before": false,
+    "after": true
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 726
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 726,
+    "center": "3",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 727
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 727,
+    "center": "3",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 728
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 728,
+    "center": "3",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 732
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 732,
+    "center": "3",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 733
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 733,
+    "center": "3",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 734
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 734,
+    "center": "3",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 735
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 735,
+    "center": "3",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 736
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 736,
+    "center": "3",
+    "before": [
+      "bottom",
+      "top",
+      "left",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "top",
+      "bottom",
+      "left",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 737
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 737,
+    "center": "4",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 738
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 738,
+    "center": "4",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 739
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 739,
+    "center": "4",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "guide locants convention",
+    "id": 740,
+    "before": "3,4",
+    "after": "2,3"
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 740
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 740,
+    "center": "4",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "guide locants convention",
+    "id": 741,
+    "before": "3,4",
+    "after": "2,3"
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 741
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 741,
+    "center": "4",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 742
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 742,
+    "center": "3",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 742,
+    "center": "4",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 743
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 743,
+    "center": "4",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 744
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 744,
+    "center": "3",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 744,
+    "center": "4",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 745
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 745,
+    "center": "4",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 746
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 746,
+    "center": "3",
+    "before": [
+      "bottom",
+      "top",
+      "left",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "top",
+      "bottom",
+      "left",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 746,
+    "center": "4",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 755
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 755,
+    "center": "3",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 756
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 756,
+    "center": "3",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 757
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 757,
+    "center": "3",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 758
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 758,
+    "center": "3",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 759
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 759,
+    "center": "3",
+    "before": [
+      "bottom",
+      "top",
+      "left",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "top",
+      "bottom",
+      "left",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 760
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 760,
+    "center": "4",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 761
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 761,
+    "center": "4",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 762
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 762,
+    "center": "4",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 763
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 763,
+    "center": "4",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 764
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 764,
+    "center": "4",
+    "before": [
+      "bottom",
+      "top",
+      "left",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "top",
+      "bottom",
+      "left",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 765
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 765,
+    "center": "5",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 766
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 766,
+    "center": "5",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 767
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 767,
+    "center": "5",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 768
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 768,
+    "center": "4",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 769
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 769,
+    "center": "4",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 770
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 770,
+    "center": "4",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 771
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 771,
+    "center": "4",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 772
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 772,
+    "center": "4",
+    "before": [
+      "bottom",
+      "top",
+      "left",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "top",
+      "bottom",
+      "left",
+      "right"
+    ]
+  },
+  {
+    "type": "guide locants convention",
+    "id": 773,
+    "before": "3,5",
+    "after": "2,4"
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 773
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 773,
+    "center": "5",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "guide locants convention",
+    "id": 774,
+    "before": "3,5",
+    "after": "2,4"
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 774
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 774,
+    "center": "5",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "guide locants convention",
+    "id": 775,
+    "before": "3,5",
+    "after": "2,4"
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 775
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 775,
+    "center": "5",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "guide locants convention",
+    "id": 776,
+    "before": "4,5",
+    "after": "2,3"
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 776
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 776,
+    "center": "5",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "guide locants convention",
+    "id": 777,
+    "before": "4,5",
+    "after": "2,3"
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 777
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 777,
+    "center": "5",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "guide locants convention",
+    "id": 778,
+    "before": "4,5",
+    "after": "2,3"
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 778
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 778,
+    "center": "5",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 779
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 779,
+    "center": "3",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 779,
+    "center": "4",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 780
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 780,
+    "center": "4",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 781
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 781,
+    "center": "3",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 781,
+    "center": "4",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 782
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 782,
+    "center": "4",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 783
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 783,
+    "center": "3",
+    "before": [
+      "bottom",
+      "top",
+      "left",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "top",
+      "bottom",
+      "left",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 783,
+    "center": "4",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 784
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 784,
+    "center": "3",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 784,
+    "center": "5",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 785
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 785,
+    "center": "3",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 785,
+    "center": "5",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 786
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 786,
+    "center": "3",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 786,
+    "center": "5",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 787
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 787,
+    "center": "3",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 787,
+    "center": "5",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 788
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 788,
+    "center": "3",
+    "before": [
+      "bottom",
+      "top",
+      "left",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "top",
+      "bottom",
+      "left",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 788,
+    "center": "5",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "guide locants convention",
+    "id": 789,
+    "before": "2,4,5",
+    "after": "2,3,5"
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 789
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 789,
+    "center": "5",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "guide locants convention",
+    "id": 790,
+    "before": "2,4,5",
+    "after": "2,3,5"
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 790
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 790,
+    "center": "5",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "guide locants convention",
+    "id": 791,
+    "before": "2,4,5",
+    "after": "2,3,5"
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 791
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 791,
+    "center": "5",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "guide locants convention",
+    "id": 792,
+    "before": "2,4,5",
+    "after": "2,3,5"
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 792
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 792,
+    "center": "5",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "guide locants convention",
+    "id": 793,
+    "before": "2,4,5",
+    "after": "2,3,5"
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 793
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 793,
+    "center": "5",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "guide locants convention",
+    "id": 794,
+    "before": "3,4,5",
+    "after": "2,3,4"
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 794
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 794,
+    "center": "4",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 794,
+    "center": "5",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "guide locants convention",
+    "id": 795,
+    "before": "3,4,5",
+    "after": "2,3,4"
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 795
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 795,
+    "center": "5",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "guide locants convention",
+    "id": 796,
+    "before": "3,4,5",
+    "after": "2,3,4"
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 796
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 796,
+    "center": "4",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 796,
+    "center": "5",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "guide locants convention",
+    "id": 797,
+    "before": "3,4,5",
+    "after": "2,3,4"
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 797
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 797,
+    "center": "5",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "guide locants convention",
+    "id": 798,
+    "before": "3,4,5",
+    "after": "2,3,4"
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 798
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 798,
+    "center": "5",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "guide locants convention",
+    "id": 799,
+    "before": "3,4,5",
+    "after": "2,3,4"
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 799
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 799,
+    "center": "4",
+    "before": [
+      "bottom",
+      "top",
+      "left",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "top",
+      "bottom",
+      "left",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 799,
+    "center": "5",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 811
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 811,
+    "center": "2",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 812
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 812,
+    "center": "2",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 813
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 813,
+    "center": "2",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 814
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 814,
+    "center": "2",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 815
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 815,
+    "center": "2",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 816
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 816,
+    "center": "3",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 817
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 817,
+    "center": "3",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 818
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 818,
+    "center": "3",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 819
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 819,
+    "center": "3",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 820
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 820,
+    "center": "2",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 820,
+    "center": "3",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 821
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 821,
+    "center": "2",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 822
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 822,
+    "center": "2",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 823
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 823,
+    "center": "2",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 824
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 824,
+    "center": "2",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 825
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 825,
+    "center": "2",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 826
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 826,
+    "center": "3",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 827
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 827,
+    "center": "3",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 828
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 828,
+    "center": "3",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 829
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 829,
+    "center": "3",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 830
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 830,
+    "center": "2",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 830,
+    "center": "3",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 831
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 831,
+    "center": "2",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 832
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 832,
+    "center": "2",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 833
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 833,
+    "center": "2",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 834
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 834,
+    "center": "2",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 835
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 835,
+    "center": "2",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 836
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 836,
+    "center": "3",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 837
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 837,
+    "center": "3",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 838
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 838,
+    "center": "3",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 839
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 839,
+    "center": "3",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 840
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 840,
+    "center": "2",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 840,
+    "center": "3",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 841
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 841,
+    "center": "4",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 842
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 842,
+    "center": "3",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 843
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 843,
+    "center": "4",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 844
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 844,
+    "center": "3",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 845
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 845,
+    "center": "3",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 846
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 846,
+    "center": "4",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 847
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 847,
+    "center": "3",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 848
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 848,
+    "center": "4",
+    "before": [
+      "right",
+      "bottom",
+      "top",
+      "left"
+    ],
+    "expectedForOriginalDrawing": [
+      "right",
+      "top",
+      "bottom",
+      "left"
+    ]
+  },
+  {
+    "type": "Fischer geometry",
+    "id": 849
+  },
+  {
+    "type": "Fischer CIP center",
+    "id": 849,
+    "center": "3",
+    "before": [
+      "left",
+      "bottom",
+      "top",
+      "right"
+    ],
+    "expectedForOriginalDrawing": [
+      "left",
+      "top",
+      "bottom",
+      "right"
+    ]
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 855,
+    "before": "nessuno",
+    "after": "5-bromo"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 856,
+    "before": "nessuno",
+    "after": "5-bromo"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 857,
+    "before": "nessuno",
+    "after": "5-cloro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 858,
+    "before": "nessuno",
+    "after": "5-cloro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 859,
+    "before": "nessuno",
+    "after": "5-bromo"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 860,
+    "before": "nessuno",
+    "after": "5-bromo"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 861,
+    "before": "nessuno",
+    "after": "5-cloro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 862,
+    "before": "nessuno",
+    "after": "5-cloro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 863,
+    "before": "nessuno",
+    "after": "5-bromo"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 864,
+    "before": "nessuno",
+    "after": "5-bromo"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 865,
+    "before": "nessuno",
+    "after": "5-cloro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 866,
+    "before": "nessuno",
+    "after": "5-cloro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 867,
+    "before": "nessuno",
+    "after": "6-fluoro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 868,
+    "before": "nessuno",
+    "after": "6-fluoro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 869,
+    "before": "nessuno",
+    "after": "6-bromo"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 870,
+    "before": "nessuno",
+    "after": "6-bromo"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 871,
+    "before": "nessuno",
+    "after": "5-bromo"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 872,
+    "before": "nessuno",
+    "after": "5-bromo"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 873,
+    "before": "nessuno",
+    "after": "5-cloro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 874,
+    "before": "nessuno",
+    "after": "5-cloro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 875,
+    "before": "nessuno",
+    "after": "6-fluoro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 876,
+    "before": "nessuno",
+    "after": "6-fluoro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 877,
+    "before": "nessuno",
+    "after": "6-bromo"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 878,
+    "before": "nessuno",
+    "after": "6-bromo"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 879,
+    "before": "nessuno",
+    "after": "5-bromo"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 880,
+    "before": "nessuno",
+    "after": "5-bromo"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 881,
+    "before": "nessuno",
+    "after": "5-cloro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 882,
+    "before": "nessuno",
+    "after": "5-cloro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 883,
+    "before": "nessuno",
+    "after": "6-fluoro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 884,
+    "before": "nessuno",
+    "after": "6-fluoro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 885,
+    "before": "nessuno",
+    "after": "6-bromo"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 886,
+    "before": "nessuno",
+    "after": "6-bromo"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 887,
+    "before": "nessuno",
+    "after": "5-bromo"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 888,
+    "before": "nessuno",
+    "after": "5-bromo"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 889,
+    "before": "nessuno",
+    "after": "5-cloro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 890,
+    "before": "nessuno",
+    "after": "5-cloro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 891,
+    "before": "nessuno",
+    "after": "6-fluoro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 892,
+    "before": "nessuno",
+    "after": "6-fluoro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 893,
+    "before": "nessuno",
+    "after": "6-bromo"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 894,
+    "before": "nessuno",
+    "after": "6-bromo"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 895,
+    "before": "nessuno",
+    "after": "5-bromo-4-cloro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 896,
+    "before": "nessuno",
+    "after": "4-bromo-5-fluoro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 897,
+    "before": "nessuno",
+    "after": "4-cloro-5-fluoro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 898,
+    "before": "nessuno",
+    "after": "5-bromo-4-cloro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 899,
+    "before": "nessuno",
+    "after": "4-bromo-5-fluoro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 900,
+    "before": "nessuno",
+    "after": "4-cloro-5-fluoro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 901,
+    "before": "nessuno",
+    "after": "5-bromo-4-cloro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 902,
+    "before": "nessuno",
+    "after": "4-bromo-5-fluoro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 903,
+    "before": "nessuno",
+    "after": "4-cloro-5-fluoro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 904,
+    "before": "nessuno",
+    "after": "5-bromo-4-cloro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 905,
+    "before": "nessuno",
+    "after": "4-bromo-5-fluoro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 906,
+    "before": "nessuno",
+    "after": "4-cloro-5-fluoro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 907,
+    "before": "nessuno",
+    "after": "5-bromo-4-cloro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 908,
+    "before": "nessuno",
+    "after": "4-bromo-5-fluoro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 909,
+    "before": "nessuno",
+    "after": "4-cloro-5-fluoro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 910,
+    "before": "nessuno",
+    "after": "5-bromo-4-cloro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 911,
+    "before": "nessuno",
+    "after": "4-bromo-5-fluoro"
+  },
+  {
+    "type": "incorrect guide prefix",
+    "id": 912,
+    "before": "nessuno",
+    "after": "4-cloro-5-fluoro"
+  }
+]

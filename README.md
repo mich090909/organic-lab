@@ -1,33 +1,51 @@
-# Organic Lab 2.5 — Palestra di nomenclatura e stereochimica
+# Organic Lab 2.5.1 — Nomenclatura e stereochimica
 
-Web app per la classe quinta del liceo scientifico, utilizzabile dal browser e da smartphone. Non richiede login e non raccoglie dati degli studenti.
+Web app statica per il liceo, senza account, con progressi locali. Mantiene il catalogo e le funzioni della versione 2.5; corregge le rappresentazioni Fischer, le spiegazioni CIP, la numerazione di alcuni nomi e i metadati dei filtri.
 
-**Contenuti verificati (versione 2.5):** 912 strutture stereochimicamente distinte, 142 quesiti di isomeria, tra cui esattamente 50 esercizi per assegnare la configurazione assoluta R/S. I quesiti R/S comprendono 1, 2 o 3 centri stereogenici e sono separati da quelli su enantiomeri, diastereoisomeri e composti meso. Sono presenti 114 proiezioni di Fischer, generate e controllate rispetto alle rispettive formule scheletriche.
+912 voci di nomenclatura; 142 quesiti di isomeria: 50 R/S (23 con un centro, 17 con due, 10 con tre), 8 E/Z, 54 relazioni stereoisomeriche, 24 isomeria costituzionale, 6 meso/chirali. Sono disponibili 114 proiezioni di Fischer.
 
-## Modalità didattiche
+Il [rapporto di controllo](audit/REPORT.md) distingue controlli automatici, riferimenti manuali, correzioni e limiti. Il [censimento completo](audit/inventory.csv) contiene una riga per ciascuna delle 1054 voci controllate. I conteggi non implicano che ogni voce sia una sostanza con configurazione completamente specificata: alcune strutture sono intenzionalmente prive di stereodescrittori.
 
-- **Impara**: cinque tappe (struttura principale, locanti, sostituenti, stereochimica, nome IUPAC completo), suggerimenti e correzione a ogni tappa.
-- **Allenati**: nome a risposta libera, feedback immediato e spiegazioni.
-- **Isomeria**: 50 esercizi R/S con risposte centro per centro, quesiti E/Z, riconoscimento dei rapporti fra stereoisomeri e isomeria costituzionale.
+## Utilizzo
 
-Filtri per famiglia, idrocarburo, difficoltà, numero di centri stereogenici e raffigurazione (scheletrica, Fischer, casuale). Quando selezioni Fischer l'app mostra solo strutture con una Fischer validata; negli altri tipi di esercizi resta il disegno scheletrico. Una struttura non si ripete nella stessa sessione.
+- **Impara:** cinque passaggi, dalla struttura principale al nome completo.
+- **Allenati:** risposta libera, correzione e spiegazione.
+- **Verifica:** prova a tempo, senza soluzioni durante lo svolgimento.
+- **Isomeria:** assegnazione R/S ed E/Z, coppie di isomeri e forme meso.
 
-## Proiezioni di Fischer
+Filtri per famiglia, idrocarburo, difficoltà, stereochimica, numero effettivo di centri stereogenici e rappresentazione. Il numero dei centri include quelli la cui configurazione non è specificata; il filtro della stereochimica definita è distinto. I locanti numerici nel percorso guidato sono proposti in ordine crescente, conservando le ripetizioni: indicano posizioni, non quantità.
 
-I legami orizzontali puntano verso l'osservatore, i verticali vanno dietro il piano. Solo la rotazione di 180° nel piano mantiene la configurazione; la rotazione di 90° non è equivalente. La correzione mostra le priorità CIP e spiega l'inversione dell'esito quando il gruppo di priorità 4 è davanti.
+I pulsanti **Ingrandisci struttura** permettono di leggere i dettagli anche su smartphone. Le formule possono essere ingrandite e scorse senza modificarne la geometria.
+
+## Progressi
+
+La chiave resta `organic-lab-liceo-v1`. Identificativi e strutture molecolari precedenti sono conservati. Lo storico non viene cancellato o riscritto: le vecchie risposte attese possono quindi mostrare i nomi precedenti alla correzione. Nuove sessioni usano i dati corretti. I progressi restano nel browser e sul dominio usato, senza sincronizzazione fra dispositivi. È disponibile l'esportazione CSV.
 
 ## Pubblicazione
 
-I seguenti file devono essere pubblicati insieme nella **radice** del ramo `main`: `index.html`, `organic-v25-extension.js`, `README.md`, `.nojekyll`. Attivare GitHub Pages con **Settings → Pages → Deploy from a branch → main → / (root)**.
+File necessari, nella radice di `main`: `index.html`, `organic-v25-extension.js`, `.nojekyll`. Aggiornarli insieme; mantenere anche questo README. GitHub Pages pubblica da `main`, cartella `/`, con il workflow dinamico `pages build and deployment`. Non è necessario ricostruire l'app o installare dipendenze sul sito.
 
-Indirizzo previsto: https://mich090909.github.io/organic-lab/
+Sito: https://mich090909.github.io/organic-lab/
 
-**Non eliminare `organic-v25-extension.js`:** contiene la parte ampliata del catalogo ed è necessario per i conteggi completi.
+Pubblicazione della versione 2.5.1 autorizzata dal proprietario il 22 ottobre 2026. Per aggiornamenti successivi, verificare che `main` non sia avanzato rispetto alla base di lavoro e integrare eventuali novità. Non forzare aggiornamenti del ramo.
 
-## Privacy e conservazione dei progressi
+## Controlli riproducibili
 
-La chiave `localStorage` resta **`organic-lab-liceo-v1`**, compatibile con le versioni precedenti, e non viene cancellata dal nuovo codice. Lo storico precedente resta sullo stesso browser e dominio. Dati e soluzioni sono incorporati nei file del sito, accessibili pubblicamente: Organic Lab è uno strumento di allenamento, non una verifica protetta. Su dispositivi o origini web differenti i progressi non vengono sincronizzati.
+Da un clone con la cronologia del repository e Python 3.12:
 
-## Accuratezza
+```sh
+python -m pip install -r tests/requirements.txt
+python tests/audit_catalog.py
+python -m unittest discover -s tests -p 'test_*.py' -v
+npm install --no-save playwright@1.62.1
+npx playwright install chromium
+node tests/ui.cjs
+```
 
-I disegni sono prodotti da RDKit; struttura, configurazioni E/Z e R/S e duplicati sono sottoposti a controlli automatici. Sono stati inoltre corretti 100 descrittori stereochimici errati preesistenti nella versione 2.4, mantenendo gli stessi identificativi e le stesse strutture. La nomenclatura segue nomi italiani progettati per le famiglie incluse, e il motore di correzione riconosce i nomi inseriti nel catalogo e le alternative esplicite, **non necessariamente ogni sinonimo IUPAC valido**.
+`tests/repair_catalog.py` documenta e riproduce la riparazione dei dati dal commit originale fissato in `tests/catalog.py`; preserva le modifiche separate dell'interfaccia. Non va usato per importare nuovi esercizi o aggiornamenti successivi. Nessuno degli script pubblica o modifica repository remoti.
+
+## Perimetro scientifico
+
+Le priorità sono calcolate durante la preparazione con **RDKit 2026.09.1, modern CIPLabeler**, sul grafo completo; l'app non usa lunghezze dei rami o locanti come scorciatoie. La verifica ricostruisce anche i grafi e la stereochimica dalle linee, dai cunei/tratteggi e dai testi degli SVG effettivi. Include legami multipli, anelli, simmetria e confronto con l'immagine speculare.
+
+Il controllo dei nomi comprende il vocabolario italiano presente nel catalogo e 128 alias espliciti, non ogni possibile sinonimo IUPAC. Non è un motore generale di nomenclatura o di riconoscimento di immagini. Gli esercizi futuri senza stato di controllo sono esclusi dalla selezione; sintassi o geometrie non supportate fanno fallire i test. Le soluzioni sono pubbliche nel codice: usare la modalità Verifica come simulazione didattica.
