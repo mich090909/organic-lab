@@ -298,3 +298,138 @@ function isoAvailable(q){
  if(settings.isoDisplay==='fischer' && !(q.kind==='RS'&&!!moleculeById(q.moleculeId)?.fischerSvg))return false;
  return true;
 }
+function optionSet(val,choices){return choices.map(([v,label])=>`<option value="${esc(v)}" ${String(val)===String(v)?'selected':''}>${esc(label)}</option>`).join('');}
+function centerSelect(id,val,all=false){return `<div class="control"><label for="${id}">Numero di centri stereogenici</label><select class="select" id="${id}">${optionSet(val,[['all','Qualsiasi'],[0,'Nessuno'],[1,'1 centro'],[2,'2 centri'],[3,'3 centri']])}</select></div>`;}
+function displaySelect(id,val){return `<div class="control"><label for="${id}">Rappresentazione</label><select class="select" id="${id}">${optionSet(val,[['casuale','Casuale (quando disponibile)'],['scheletrica','Scheletrica'],['fischer','Fischer']])}</select></div>`;}
+renderSetup=function(mode){
+ let out=nativeSetup(mode),n=activeMols().filter(nameAvailable).length;
+ const more=centerSelect('centerCountSelect',settings.centerCount)+displaySelect('displaySelect',settings.display);
+ out=out.replace('</select></div></div>\n<div class="sep"></div>', '</select></div>'+more+'</div>\n<div class="sep"></div>');
+ // Fallback if minor markup formatting changes
+ if(!out.includes('centerCountSelect'))out=out.replace('<div class="sep"></div><div class="btn-row">',more+'<div class="sep"></div><div class="btn-row">');
+ out=out.replace(/<span class="muted tiny" id="availableText">[\s\S]*?<\/span>/,`<span class="muted tiny" id="availableText">${n} molecole compatibili con i filtri. Nessuna ripetizione nella sessione.</span>`);
+ out=out.replace(/(data-start="(?:train|learn)")[^>]*>/,(_,a)=>`${a} ${n?'':'disabled'}>`);
+ out=out.replace('Ogni sessione propone strutture senza ripetizioni.','Ogni sessione propone strutture diverse, senza ripetizioni. Se scegli Fischer, sono mostrate solo le molecole con una proiezione validata.');
+ return out;
+};
+renderIsoSetup=function(){
+ let out=nativeIsoSetup();const n=DATA.isomerism.filter(isoAvailable).length;
+ const more=`<div class="control"><label for="isoLevelSelect">Difficoltà</label><select class="select" id="isoLevelSelect">${optionSet(settings.isoLevel,[['all','Tutte'],[1,'Base'],[2,'Intermedia'],[3,'Avanzata']])}</select></div>`+centerSelect('isoCentersSelect',settings.isoCenterCount)+displaySelect('isoDisplaySelect',settings.isoDisplay);
+ out=out.replace('</select></div></div><div class="sep"></div>',`</select></div>${more}</div><div class="sep"></div>`);
+ if(!out.includes('isoCentersSelect'))out=out.replace('<div class="sep"></div><div class="btn-row">',more+'<div class="sep"></div><div class="btn-row">');
+ out=out.replace(/<select id="isoCount" class="select">[\s\S]*?<\/select>/,`<select id="isoCount" class="select">${[10,20,30,40,50,100,DATA.isomerism.length].map(v=>`<option value="${v}" ${settings.isoCount===v?'selected':''}>${v}</option>`).join('')}</select>`);
+ out=out.replace(/<span class="tiny muted">\d+ quesiti disponibili con questi filtri<\/span>/,`<span class="tiny muted">${n} quesiti disponibili con questi filtri; ${RS_EXACT_COUNT} dedicati esclusivamente a R/S.</span>`);
+ out=out.replace('Confronta isomeri costituzionali, enantiomeri e diastereoisomeri, riconosci forme meso e assegna E/Z e R/S.', 'Assegna R/S ai singoli centri oppure confronta isomeri costituzionali e stereoisomeri. Le Fischer sono disponibili nei quesiti R/S selezionati.');
+ out=out.replace('Per E/Z e R/S, interpreta direttamente i legami e i cunei nella formula grafica.', 'Nei 50 esercizi R/S assegna ciascun centro; nei disegni Fischer interpreta le linee verticali e orizzontali.');
+ out=out.replace('<button class="btn" data-start="iso">',`<button class="btn" data-start="iso" ${n?'':'disabled'}>`);
+ out=out.replace('Solo R/S','Solo assegnazione R/S (50 esercizi)');
+ return out;
+};
+applySettings=function(e){
+ const k={centerCountSelect:'centerCount',displaySelect:'display',isoLevelSelect:'isoLevel',isoCentersSelect:'isoCenterCount',isoDisplaySelect:'isoDisplay'}[e.target.id];
+ if(k){settings[k]=e.target.value; if(!quiz)render(false); return true;}
+ return nativeApplySettings(e);
+};
+function presentationFor(q,mode){
+ const preset=mode==='iso'?settings.isoDisplay:settings.display;
+ let eligible=mode==='iso'?q.kind==='RS'&&!!moleculeById(q.moleculeId)?.fischerSvg:!!q.fischerSvg;
+ if(!eligible||preset==='scheletrica')return 'scheletrica';
+ if(preset==='fischer')return 'fischer';
+ return Math.random()<.5?'fischer':'scheletrica';
+}
+startQuiz=function(mode,onlyIds){
+ let items=[];
+ if(mode==='iso')items=shuffle(DATA.isomerism.filter(isoAvailable)).slice(0,+settings.isoCount);
+ else{
+  let pool=activeMols().filter(nameAvailable);
+  if(onlyIds)pool=pool.filter(m=>onlyIds.includes(m.id));
+  pool=shuffle(pool);
+  if(mode==='learn')pool.sort((a,b)=>a.level-b.level);
+  items=pool.slice(0,onlyIds?pool.length:+settings.count);
+ }
+ if(!items.length){alert('Nessun esercizio disponibile con questa combinazione di filtri. Modifica il numero dei centri o la rappresentazione.');return;}
+ const unique=new Set(items.map(v=>v.id));if(unique.size!==items.length)throw Error('Duplicato nella sessione');
+ quiz={mode,items,index:0,answers:[],started:Date.now(),endsAt:null,presentations:items.map(q=>presentationFor(q,mode))};
+ page=mode;report=null;feedback=null;chosen='';hintStage=0;
+ if(mode==='learn')resetLesson();render();
+};
+function selectedRepresentation(){return quiz?.presentations?.[quiz.index]||'scheletrica';}
+function displayedSvg(q,mode){
+ if(selectedRepresentation()==='fischer')return mode==='iso'?moleculeById(q.moleculeId)?.fischerSvg||q.svg:q.fischerSvg||q.svg;
+ return mode==='iso'?(q.svg||moleculeById(q.moleculeId)?.svg||''):q.svg;
+}
+function stereoInfo(){return `<div class="fischer-help"><strong>Come leggere Fischer</strong><p>${esc(FISCHER_HELP)}</p></div>`;}
+function cipExplanation(q){
+ const c=centersOf(q),fm=q.moleculeId?moleculeById(q.moleculeId)?.cipFischer||{}:{},om=q.cipDetails||{};
+ return `<section class="cip-explanation"><h3>Priorità CIP e procedimento</h3>${c.map((x,i)=>{
+  const key=String(x.position||''),d=fm[key]||om[key]||om;
+  if(!d?.priorities)return `<p>Centro ${esc(key||String(i+1))}: ordina i quattro sostituenti per priorità decrescente (1–4).</p>`;
+  let rows=d.priorities.map(v=>`<li><strong>${v.priority}</strong> — ${esc(v.group)}</li>`).join('');
+  let ff=selectedRepresentation()==='fischer',four=d.priorities.find(y=>y.priority===4),config=x.answer;
+  let process=ff?`Il gruppo di priorità 4 (${esc(four?.group||'H')}) si trova ${d.group4==='left'?'a sinistra':'a destra'}, su un legame orizzontale: è diretto verso l’osservatore. La lettura 1→2→3 è ${config==='R'?'antioraria':'oraria'}; poiché il 4 è davanti, si <strong>inverte</strong> e si ottiene <strong>${config}</strong>.`:
+   `Il gruppo di priorità 4 (${esc(four?.group||'H')}) va orientato idealmente <strong>lontano dall’osservatore</strong>. Nella formula scheletrica ricostruisci il suo verso usando cunei pieni (davanti) e tratteggiati (dietro); se il 4 è davanti, inverti il risultato. Con 4 dietro, 1→2→3 ${config==='R'?'orario':'antiorario'} corrisponde a <strong>${config}</strong>.`;
+  return `<div class="cip-center"><strong>${key?'C'+esc(key):'Centro '+(i+1)} → ${config}</strong><ol>${rows}</ol><p>${process}</p></div>`;
+ }).join('')}</section>`;
+}
+function renderRSQuiz(){
+ const q=current(),n=quiz.index,centers=centersOf(q),revealed=!!feedback;
+ const diagram=displayedSvg(q,'iso');
+ const inputs=centers.map((c,i)=>`<label class="guided-stereo-row"><span><strong>${c.position?'Carbonio '+esc(c.position):'Centro stereogenico'}</strong> · configurazione assoluta</span><select class="select guided-select" data-rs-center="${i}" ${revealed?'disabled':''} aria-label="R/S del centro ${i+1}"><option value="">Seleziona…</option><option value="R">R</option><option value="S">S</option></select></label>`).join('');
+ let solution='';if(revealed)solution=`<div class="alert ${feedback.correct?'ok':'no'}" role="status"><h3>${feedback.correct?'✓ Corretto':'↺ Risposta da rivedere'}</h3><p><strong>Configurazioni:</strong> ${esc(centers.map(c=>`${c.position||''}${c.answer}`).join(', '))}</p>${cipExplanation(q)}<p class="tiny muted">Il risultato dipende dall’ordine delle priorità e dall’orientamento nello spazio; non basta leggere una lettera già stampata.</p></div><div class="btn-row"><button id="nextButton" class="btn">${n===quiz.items.length-1?'Riepilogo':'Prossima molecola →'}</button></div>`;
+ return renderIntro('Isomeria · Assegnazione R/S','Determina la configurazione di ciascun centro stereogenico osservando la struttura, senza leggere la risposta prima della correzione.',`Quesito ${n+1} di ${quiz.items.length}`)+
+ `<div class="quiz-layout"><section class="panel question-card"><div class="question-top"><span>ASSEGNAZIONE ASSOLUTA · R/S · Livello ${q.level}</span><span class="chip">${centers.length} ${centers.length===1?'centro':'centri'}</span></div><div class="progress-track" style="margin-top:13px"><div class="progress-fill" style="width:${100*n/quiz.items.length}%"></div></div><h2 class="exercise-title">${centers.length>1?'Individua R/S per ogni centro stereogenico':'Assegna R oppure S'}</h2><div class="molecule-card representation-card">${diagram}</div><p class="tiny muted">Rappresentazione: ${selectedRepresentation()==='fischer'?'Fischer':'scheletrica con cunei/tratteggi'}.</p>${selectedRepresentation()==='fischer'?stereoInfo():''}${revealed?'':`<form id="rsCentersForm"><div class="guided-stereo">${inputs}</div><button class="btn" type="submit">Correggi le configurazioni</button></form>`}${solution}</section><aside class="side-sticky"><section class="panel"><h3>Sessione R/S</h3><div class="side-data"><span>Quesito</span><strong>${n+1}/${quiz.items.length}</strong></div><div class="side-data"><span>Risolti</span><strong>${quiz.answers.length}</strong></div><button class="btn ghost" id="leaveQuiz">Esci dalla sessione</button></section><section class="panel" style="margin-top:15px"><h3>Metodo CIP</h3><p>1. Ordina i quattro gruppi (1 maggiore, 4 minore).<br>2. Orienta il gruppo 4.<br>3. Esamina il percorso 1→2→3.</p></section></aside></div>`;
+}
+renderQuiz=function(){
+ let q=current();if(quiz?.mode==='iso'&&q?.kind==='RS')return renderRSQuiz();
+ let hideWhy=q?.why;
+ // Never leak the stereochemical answer through the 2nd hint.
+ if(q&&!feedback&&hintStage>0)q.why='Il procedimento segue l’individuazione del gruppo funzionale, dei locanti e delle priorità CIP. Determina autonomamente i descrittori stereochimici.';
+ let out=nativeQuiz();if(q)q.why=hideWhy;
+ if(quiz?.mode!=='iso' && selectedRepresentation()==='fischer'&&q?.fischerSvg){
+  out=out.replace(`<div class="molecule-card">${q.svg}</div>`,`<div class="molecule-card representation-card">${q.fischerSvg}</div>${stereoInfo()}`);
+  out=out.replace('I cunei pieni e tratteggiati indicano legami fuori dal piano; l’idrogeno può essere implicito.','Nella Fischer i legami orizzontali puntano verso l’osservatore; i verticali sono diretti dietro il piano.');
+ }
+ return out;
+};
+renderGuidedQuiz=function(){
+ let out=nativeGuided(),q=current();
+ if(q?.fischerSvg&&selectedRepresentation()==='fischer'){
+  out=out.replace(`<div class="molecule-card guided-molecule">${q.svg}</div>`,`<div class="molecule-card guided-molecule representation-card">${q.fischerSvg}</div>${stereoInfo()}`);
+ }
+ return out;
+};
+function locantLabel(value,m){
+ if(value==='nessuno')return 'Nessun locante richiesto';
+ const parts=value.split(',').filter(Boolean);
+ let pref=GUIDE[String(m?.id)]?.prefix||'';
+ let name=m?.name||'';
+ let group=/\bmetil/.test(pref)?'gruppo metile':/\betil/.test(pref)?'gruppo etile':/\bcloro/.test(pref)?'gruppo cloro':/\bbromo/.test(pref)?'gruppo bromo':/\bfluoro/.test(pref)?'gruppo fluoro':null;
+ if(parts.length===1){
+  if(group)return `Locante del ${group}: ${value}`;
+  if(name.includes('-ene'))return `Locante del doppio legame: ${value}`;
+  if(name.includes('-ino'))return `Locante del triplo legame: ${value}`;
+  if(name.includes('-olo'))return `Locante del gruppo ossidrile: ${value}`;
+  if(name.includes('-one'))return `Locante del gruppo carbonilico: ${value}`;
+  return `Locante (posizione): ${value}`;
+ }
+ return `Locanti (posizioni): ${parts.join(', ')}`;
+}
+guideKeyLabel=function(stage,key){if(stage===1)return locantLabel(key,current());return nativeGuideLabel(stage,key);};
+guidePrompt=function(step,g,m){if(step===1)return 'Individua i locanti: sono numeri che indicano POSIZIONI sulla catena, non il numero dei gruppi. Ad esempio, 2-metilbutano ha un solo locante, quello del metile: 2.';return nativeGuidePrompt(step,g,m);};
+document.addEventListener('submit',e=>{
+ if(e.target.id!=='rsCentersForm')return;
+ e.preventDefault();e.stopImmediatePropagation();
+ const q=current(),selects=[...document.querySelectorAll('[data-rs-center]')].map(v=>v.value);
+ if(selects.some(v=>!v)){alert('Assegna R oppure S a ciascun centro prima di confermare.');return;}
+ let v=centersOf(q).map((c,i)=>`${c.position||''}${selects[i]}`).join(',');
+ recordAnswer(v);
+},true);
+// Footer / label actual release; key for progress stays unchanged.
+document.querySelector('.footer').innerHTML=document.querySelector('.footer').innerHTML.replace('2.4','2.5');
+
+window.addEventListener('beforeunload',()=>clearInterval(examTick));
+render();
+</script>
+</body>
+</html>
+</html>
